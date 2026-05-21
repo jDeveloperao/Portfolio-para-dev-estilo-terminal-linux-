@@ -1,7 +1,38 @@
-Terminal Portfolio — José Dev
+# Terminal Portfolio — José Dev
 
-This project is a personal portfolio built as an interactive Linux-style terminal interface. It was designed to showcase backend development skills in Python, especially using Flask and FastAPI, while maintaining a unique and modern user experience.
+Este é um portfólio pessoal desenvolvido como uma interface interativa inspirada em terminal Linux. O projeto foi criado para apresentar habilidades técnicas de desenvolvimento backend de forma mais dinâmica e diferente dos portfólios tradicionais.
 
-The portfolio simulates a real terminal environment where visitors can interact using commands such as whoami, skills, projects, and contact. Each command reveals structured information about the developer, creating a more engaging and technical presentation compared to traditional static portfolios.
+A navegação acontece através de comandos digitados, simulando um ambiente de terminal real. O visitante pode explorar informações como perfil, habilidades, projetos e formas de contacto de forma interativa.
 
-The interface is built using only HTML, CSS, and vanilla JavaScript, focusing on performance, responsiveness, and simplicity. It is fully responsive and optimized for mobile devices, ensuring a smooth experience across all screen sizes.
+O objetivo principal é unir apresentação profissional com uma experiência mais envolvente, destacando competências em desenvolvimento backend e também no uso de tecnologias frontend básicas.
+
+## Sobre o desenvolvedor
+
+José Dev é um desenvolvedor backend focado em Python, com experiência em Flask e FastAPI, além de criação de APIs REST.
+
+- Localização: Luanda, Talatona, Angola  
+- Email: josewave2006@gmail.com  
+- Foco: Backend Development  
+
+## Tecnologias utilizadas
+
+- HTML  
+- CSS  
+- JavaScript  
+
+## Funcionalidades
+
+- Interface estilo terminal Linux  
+- Comandos interativos  
+- Exibição dinâmica de informações  
+- Layout responsivo  
+- Experiência simples e leve  
+
+## Objetivo do projeto
+
+Criar uma forma diferente de apresentar um portfólio, focado em clareza, interação e identidade técnica, mantendo ao mesmo tempo facilidade de uso para qualquer pessoa que visite o site.
+
+## Contacto
+
+Email: josewave2006@gmail.com  
+GitHub: adicionar link aqui
