@@ -35,4 +35,5 @@ Criar uma forma diferente de apresentar um portfólio, focado em clareza, intera
 ## Contacto
 
 Email: josewave2006@gmail.com  
-GitHub: adicionar link aqui
+Facebook:  https://web.facebook.com/profile.php?id=61580620917176
+Whatsapp:  +244 939815394
