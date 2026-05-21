@@ -1,39 +1,77 @@
-# Terminal Portfolio — José Dev
+Terminal Portfolio — José Dev
 
-Este é um portfólio pessoal desenvolvido como uma interface interativa inspirada em terminal Linux. O projeto foi criado para apresentar habilidades técnicas de desenvolvimento backend de forma mais dinâmica e diferente dos portfólios tradicionais.
+🚀 Live Demo
+Terminal Portfolio Live Demo
 
-A navegação acontece através de comandos digitados, simulando um ambiente de terminal real. O visitante pode explorar informações como perfil, habilidades, projetos e formas de contacto de forma interativa.
+📌 Sobre o Projeto
 
-O objetivo principal é unir apresentação profissional com uma experiência mais envolvente, destacando competências em desenvolvimento backend e também no uso de tecnologias frontend básicas.
+Terminal Portfolio é um portfólio pessoal desenvolvido com uma interface inspirada em terminais Linux, proporcionando uma experiência interativa e diferenciada para apresentar competências técnicas e projetos.
 
-## Sobre o desenvolvedor
+Ao invés de uma navegação tradicional, o utilizador interage com o sistema através de comandos digitados, simulando um ambiente real de terminal. Essa abordagem foi pensada para reforçar a identidade técnica do projeto e destacar conhecimentos voltados ao desenvolvimento backend.
 
-José Dev é um desenvolvedor backend focado em Python, com experiência em Flask e FastAPI, além de criação de APIs REST.
+O projeto combina uma experiência minimalista, responsiva e leve com uma apresentação profissional de habilidades, tecnologias e informações pessoais.
 
-- Localização: Luanda, Talatona, Angola  
-- Email: josewave2006@gmail.com  
-- Foco: Backend Development  
+👨‍💻 Sobre o Desenvolvedor
 
-## Tecnologias utilizadas
+José Dev é um desenvolvedor backend focado em Python e desenvolvimento de APIs modernas.
 
-- HTML  
-- CSS  
-- JavaScript  
+Especialidades
+Desenvolvimento Backend
+APIs REST
+Flask
+FastAPI
+Automação com Python
+Localização
 
-## Funcionalidades
+Luanda, Talatona — Angola
 
-- Interface estilo terminal Linux  
-- Comandos interativos  
-- Exibição dinâmica de informações  
-- Layout responsivo  
-- Experiência simples e leve  
+Contacto
+Email: josewave2006@gmail.com
+Portfólio: José Dev Portfolio
+⚙️ Tecnologias Utilizadas
+HTML5
+CSS3
+JavaScript
+✨ Funcionalidades
+Interface inspirada em terminal Linux
+Navegação baseada em comandos
+Experiência interativa e dinâmica
+Estrutura minimalista
+Layout totalmente responsivo
+Performance leve e rápida
+Apresentação técnica diferenciada
+🎯 Objetivo do Projeto
 
-## Objetivo do projeto
+O principal objetivo deste projeto é criar uma forma mais moderna e técnica de apresentar um portfólio profissional, unindo:
 
-Criar uma forma diferente de apresentar um portfólio, focado em clareza, interação e identidade técnica, mantendo ao mesmo tempo facilidade de uso para qualquer pessoa que visite o site.
+Identidade visual forte
+Interatividade
+Clareza de informações
+Experiência diferenciada para recrutadores e visitantes
 
-## Contacto
+Além disso, o projeto demonstra conhecimentos em estruturação frontend, design minimalista e construção de experiências interativas focadas em desenvolvedores.
 
-Email: josewave2006@gmail.com  
-josedev-gamma.vercel.app
+📂 Estrutura do Projeto
+📦 terminal-portfolio
+ ┣ 📂 static
+ ┃ ┣ 📂 css
+ ┃ ┃ ┗ 📜 styles.css
+ ┃ ┗ 📂 js
+ ┃   ┗ 📜 script.js
+ ┣ 📜 index.html
+ ┗ 📜 README.md
+🚀 Como Executar o Projeto
 
+Clone o repositório:
+
+git clone <url-do-repositorio>
+
+Acesse a pasta do projeto:
+
+cd terminal-portfolio
+
+Abra o arquivo index.html no navegador.
+
+📄 Licença
+
+Este projeto foi desenvolvido para fins de estudo, prática e apresentação profissional.
